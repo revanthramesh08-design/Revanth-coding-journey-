@@ -1,0 +1,13 @@
+Hello, I am Revanth 
+
+I am currently pursuing Electronics and Communication Engineering, with a growing curiosity towards the digital and technological world.
+
+This repository represents my initial step into understanding version control systems and collaborative development platforms.
+
+Through this activity, I am gaining hands-on exposure to organizing digital workspaces, managing files efficiently, and presenting my learning journey in a structured manner.
+
+I believe that consistent learning and practical exploration are key to building strong technical skills.
+
+This is not just a repository, but the foundation of my future growth in the field of technology.
+
+Thank you!
